@@ -6,7 +6,12 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 		<link href="viewer.css" type="text/css" rel="stylesheet" />
 	</head>
-			
+		<!--
+			ID:U1810089
+			Name:Munisa Azimkhodjaeva
+			Section:003
+			Lab:004
+		-->	
 	<body>
 		<div id="header">
 			<h1>190M Music Playlist Viewer</h1>
